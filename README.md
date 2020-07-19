@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... as a freelancer software developer
+- 🔭 I’m currently working on ... as a freelance software developer
 - 🌱 I’m currently learning ... Python/Ruby
 - 👯 I’m looking to collaborate on ... Django projects
 - 🤔 I’m looking for help with ... AWS

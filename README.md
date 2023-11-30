@@ -6,7 +6,7 @@
 
 ![alt text](https://fordbedia.com/images/fordbedia-logo.png "Ford Bedia")
 
-- 🔭 I’m currently working on ... as a freelance software developer
+- 🔭 I’m currently working on ... as a software engineer @ Freedom Forever LLC.
 - 🌱 I’m currently learning ... Python/Ruby
 - 👯 I’m looking to collaborate on ... Django projects
 - 🤔 I’m looking for help with ... AWS

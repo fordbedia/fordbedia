@@ -17,7 +17,8 @@
 - 👯 Open to collaborating on **Django** and **Laravel** projects
 - ☁️ Leveling up on **AWS**, and always happy to trade notes on EC2, RDS, SES, and containerized deployments
 - 💬 Ask me about **PHP / Laravel, Python / Django, React, Vue, Node.js, and modern JavaScript (ES)**
-- 📫 Reach me at **[fordbedia.com](https://fordbedia.com)**, or say hi to <img src="https://fordbedia.com/assets/codi-icon-nod-y-3oHt4E.svg" alt="Codi" height="20" /> **Codi**, the personal AI agent I built. Just type "Codi" or "hey Codi" on the site to start chatting.
+- 📫 Reach me at **[fordbedia.com](https://fordbedia.com)**
+- <img src="https://fordbedia.com/assets/codi-icon-nod-y-3oHt4E.svg" alt="Codi" height="20" /> Meet **Codi**, my personal AI agent that I built with **LangGraph**. He can schedule meetings and send emails for me. Just type "Codi" or "hey Codi" on the site to start chatting.
 
 ### 🛠️ Tech stack
 
